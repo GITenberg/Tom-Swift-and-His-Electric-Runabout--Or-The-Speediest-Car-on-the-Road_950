@@ -1,5 +1,8 @@
 _repo: Tom-Swift-and-His-Electric-Runabout--Or-The-Speediest-Car-on-the-Road_950
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Appleton, Victor
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: 05tom11l.lit and 05tom11l.zip files are in MicroSoft Open Book Format.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/950#Tom-Swift-and-His-Electric-Runabout--Or-The-Speediest-Car-on-the-Road
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '1997-06-01'
 gutenberg_type: Text

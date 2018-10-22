@@ -2601,7 +2601,7 @@ established the connection, in spite of his shock and his father and
 Mr. Sharp had decided to let the machinery run until he came back.
 
 "And look at the record it's made!" cried Tom delightedly as he glanced
-at the gauge "Better than I figured on. That battery is a wonder. I'll
+at the gauge. "Better than I figured on. That battery is a wonder. I'll
 have the fastest electric runabout you ever saw."
 
 "If the wires don't get crossed again," put in Mr. Sharp.  "You'd
@@ -4813,7 +4813,7 @@ starting lever back and forth.
 But there was no response. There was no hum from the motor. The machine
 was "dead."
 
-"That's queer," murmured the young inventor
+"That's queer," murmured the young inventor.
 
 "Maybe a fuse blew out," suggested Mr. Damon, that seeming to be his
 favorite form of trouble.
